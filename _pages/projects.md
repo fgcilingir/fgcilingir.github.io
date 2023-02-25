@@ -10,4 +10,5 @@ author_profile: true
 
 
 <img src='/images/gozdepp.jpg'>
-![photo with a caption](/images/gozdepp.jpg)
+
+![photo](/images/gozdepp.jpg)
