@@ -17,6 +17,7 @@ Work experience
   * University of Zurich, Department of Evolutionary Biology and Environmental Studies, Laboratory of Evolutionary and Conservation Genomics
 * Sept 2019 - Aug 2020: Post-doctoral Research Fellow
   * University of Zurich, Department of Evolutionary Biology and Environmental Studies, Laboratory of Population Ecology
+Education
 ======
 * Ph.D in Biological Sciences, National University of Singapore, 2018
   * Thesis title: "Bridging in situ and ex situ Conservation with Genomics and Stakeholder Management: Case Studies of the Southern River Terrapin (_Batagur affinis_) and the Burmese Roofed Turtle (_Batagur trivittata_)"
