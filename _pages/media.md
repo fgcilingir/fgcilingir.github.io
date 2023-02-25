@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Media Coverage"
-permalink: /outreach/
+permalink: /media/
 author_profile: true
 redirect_from:
   - /resume
