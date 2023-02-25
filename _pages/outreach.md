@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-======
+
 * Çilingir, F.G. (in preparation) “What does a conservation geneticist do?”, a book chapter in Global Women in Herpetology, Eds: Umilaela Arifin, Itzue Wendolin, Sinlan Poo (in English).
 * Çilingir, F.G. (February 2022) “Genomic aspects in the conservation of threatened turtles”, online speaker in the Women Blaze Trails Festival (in English).
 * Çilingir, F.G. (July 2021) “What about Turtles?”, guest of Esmiyor Podcast (in Turkish).
