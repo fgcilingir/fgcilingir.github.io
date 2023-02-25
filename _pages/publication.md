@@ -1,11 +1,10 @@
 ---
 layout: archive
-title: ""
+title: "Publications"
 permalink: /publication/
 author_profile: true
 ---
-Publications
-======
+
 * Amano, T., Berdejo-Espinola, V., Akasaka, M., de Andrade Junior, M. A., Blaise, N., Checco, J., **Çilingir, F.G.** et al. (2023) The role of non-English-language science in informing national biodiversity assessments. Nature Sustainability (in press).
 * **Çilingir, F.G.**, Grossen, C., A’bear, L., Hansen, D., Davis, L., Ozgul, A., Bunbury, N., Croll, D. Chromosome-level genome assembly for the Aldabra giant tortoise enables insights into the genetic health of a threatened population. GigaScience doi: [https://doi.org/10.1093/gigascience/giac090](https://doi.org/10.1093/gigascience/giac090).
 * **Çilingir, F.G.**, Hansen, D., Bunbury, N., Postma, E., Baxter, R., Turnbull, L., Ozgul, A., Grossen, C. (2022) Low-coverage reduced representation sequencing reveals subtle within-island genetic structure in Aldabra giant tortoises. Ecology and Evolution doi: [https://doi.org/10.1002/ece3.8739](https://doi.org/10.1002/ece3.8739).
