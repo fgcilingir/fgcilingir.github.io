@@ -9,8 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-======
-
 * Giant step forward in Aldabra giant tortoise conservation, Seychelles Nation, 12 October 2022, front page.
 * Genome sequencing project may save one of the world’s last surviving species of giant tortoise, BBC Science Focus, 30 October 2022, page 19.
 * Schildkrötengenom entziffert, University of Zurich Magazin, Nr. 4 December 2022, page 24.
