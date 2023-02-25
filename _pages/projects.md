@@ -9,4 +9,4 @@ author_profile: true
   * Description
 
 
-<img src='/images/female_tortoise.jpg'>
+<img src='/images/gozdepp.jpg'>
