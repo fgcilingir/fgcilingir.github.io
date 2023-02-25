@@ -9,4 +9,4 @@ author_profile: true
   * Description
 
 
-<img src='/images/500x300.png'>
+<img src='/images/female_tortoise.jpg'>
