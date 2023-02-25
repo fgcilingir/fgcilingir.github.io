@@ -84,14 +84,3 @@ Active Membership in Scientific Societies
 * Society for Molecular Biology and Evolution, USA, 2021 –
 * Society for Conservation Biology, USA, 2015 – 
 * Ecology and Evolutionary Biology Society of Turkey, 2010 – 
-
-Science Communication Activities
-======
-* Çilingir, F.G. (in prep) “What does a conservation geneticist do?” in Women in Herpetology, Eds: Umilaela Arifin, Itzue Wendolin Caviedes-Solis, Sinlan Poo (book chapter in English).
-* Çilingir, F.G. (May 2021) “Genetics for Nature Conservation” in Young Scientists Explain, Eds: Emre Eren Korkmaz, Erdinc Sezgin, Siyah Kitap: Istanbul, Turkey (book chapter in Turkish).
-* Featured in the “Inspiring National Geographic Explorer 2020” list of National Geographic Turkey (January 2021)
-* Çilingir, F.G. “Genetics and Nature Conservation” (October 2020), project contribution to the Selected Topics in Evolutionary Biology (STEB) (in English).
-* Çilingir, F.G. (Mar 2020) “Genetics and Nature Conservation”, Disney Turkey Internal Seminars
-* National Geographic Deutschland (Feb 2020) “Explorer Spotlight: F. Gözde Çilingir” (in English with German subtitles).
-* Çilingir, F.G. (Oct 2019) “Democratization of Scientific Knowledge for Biodiversity Conservation in Myanmar”, 3-min pitch at the National Geographic Explorer Spotlight, Munich (in English).
-
